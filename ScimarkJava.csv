@@ -1,0 +1,6 @@
+__file_name__,cpu,benchmark,vm,ElapsedTime,CPU,MaxMemory,AvgMemory,MinorPF,MajorPF,CtxSwitch,exit,Name
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_AAt/scimark.fft.txt,amd64,ScimarkJava,openj9,94.84,103,89580,0,4906,0,291,0,fft
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_AAt/scimark.lu.txt,amd64,ScimarkJava,openj9,50.84,108,90300,0,5818,0,130,0,lu
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_AAt/scimark.monte_carlo.txt,amd64,ScimarkJava,openj9,3.18,117,70064,0,4173,0,41,0,monte_carlo
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_AAt/scimark.sor.txt,amd64,ScimarkJava,openj9,2.01,144,81132,0,4014,0,123,0,sor
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_AAt/scimark.sparse.txt,amd64,ScimarkJava,openj9,1.69,152,87024,0,4001,0,56,0,sparse

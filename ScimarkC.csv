@@ -1,0 +1,6 @@
+__file_name__,cpu,benchmark,vm,ElapsedTime,CPU,MaxMemory,AvgMemory,MinorPF,MajorPF,CtxSwitch,exit,Name
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkC/run_YH0/fft.txt,amd64,ScimarkC,openj9,86.18,99,17856,0,606,0,71,0,FFT
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkC/run_YH0/lu.txt,amd64,ScimarkC,openj9,41.28,99,16756,0,3994,0,222,0,LU
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkC/run_YH0/monte_carlo.txt,amd64,ScimarkC,openj9,0.87,100,1472,0,72,0,0,0,Monte Carlo
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkC/run_YH0/sor.txt,amd64,ScimarkC,openj9,0.57,99,9348,0,2028,0,1,0,SOR
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkC/run_YH0/sparse.txt,amd64,ScimarkC,openj9,0.23,99,14828,0,1639,0,0,0,Sparse MatMult
