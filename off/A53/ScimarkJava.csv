@@ -1,12 +1,6 @@
 __file_name__,cpu,benchmark,vm,ElapsedTime,CPU,MaxMemory,AvgMemory,MinorPF,MajorPF,CtxSwitch,exit,Name
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_LVO/scimark.fft.txt,A53,ScimarkJava,openj9,0.42,106,29192,0,2459,0,11,1,N/A
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_LVO/scimark.lu.txt,A53,ScimarkJava,openj9,0.43,103,29148,0,2462,0,7,1,N/A
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_LVO/scimark.monte_carlo.txt,A53,ScimarkJava,openj9,0.42,105,29196,0,2462,0,14,1,N/A
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_LVO/scimark.sor.txt,A53,ScimarkJava,openj9,0.42,106,29148,0,2460,0,5,1,N/A
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_LVO/scimark.sparse.txt,A53,ScimarkJava,openj9,0.42,106,29336,0,2463,0,3,1,N/A
-__file_name__,cpu,benchmark,vm,ElapsedTime,CPU,MaxMemory,AvgMemory,MinorPF,MajorPF,CtxSwitch,exit,Name
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_QVF/scimark.fft.txt,A53,ScimarkJava,openj9,204.55,101,60444,0,9744,0,867,0,fft
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_QVF/scimark.lu.txt,A53,ScimarkJava,openj9,450.19,100,54960,0,9609,0,952,0,lu
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_QVF/scimark.monte_carlo.txt,A53,ScimarkJava,openj9,34.76,113,65440,0,11889,0,1299,0,monte_carlo
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_QVF/scimark.sor.txt,A53,ScimarkJava,openj9,21.05,121,73320,0,13933,0,1357,0,sor
-/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_QVF/scimark.sparse.txt,A53,ScimarkJava,openj9,12.88,117,53744,0,8922,0,960,0,sparse
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_RTl/scimark.fft.txt,A53,ScimarkJava,openj9,1084.77,99,35148,0,6860,8,2791,0,fft
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_RTl/scimark.lu.txt,A53,ScimarkJava,openj9,2870.17,99,33320,0,5866,0,3507,0,lu
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_RTl/scimark.monte_carlo.txt,A53,ScimarkJava,openj9,75.36,99,17292,0,1844,0,96,0,monte_carlo
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_RTl/scimark.sor.txt,A53,ScimarkJava,openj9,20.98,100,25064,0,3845,0,11,0,sor
+/home/casaadmin/aarch64_omr_benchmark/results/ScimarkJava/run_RTl/scimark.sparse.txt,A53,ScimarkJava,openj9,12.90,99,30780,0,5263,0,153,0,sparse
